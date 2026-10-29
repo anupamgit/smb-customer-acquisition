@@ -1,0 +1,2645 @@
+{
+  "scenario": "salon-la",
+  "businessType": "hair_salon",
+  "customers": [
+    {
+      "id": "cust_salon-la_001",
+      "given_name": "Patron1",
+      "family_name": "Demo",
+      "created_at": "2025-08-29T10:58:53Z",
+      "address": {
+        "address_line_1": "854 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_002",
+      "given_name": "Patron2",
+      "family_name": "Demo",
+      "created_at": "2025-12-02T10:58:53Z",
+      "address": {
+        "address_line_1": "17 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_003",
+      "given_name": "Patron3",
+      "family_name": "Demo",
+      "created_at": "2025-12-22T10:58:53Z",
+      "address": {
+        "address_line_1": "628 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_004",
+      "given_name": "Patron4",
+      "family_name": "Demo",
+      "created_at": "2026-09-11T10:58:53Z",
+      "address": {
+        "address_line_1": "188 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_005",
+      "given_name": "Patron5",
+      "family_name": "Demo",
+      "created_at": "2026-01-20T10:58:53Z",
+      "address": {
+        "address_line_1": "198 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_006",
+      "given_name": "Patron6",
+      "family_name": "Demo",
+      "created_at": "2025-10-19T10:58:53Z",
+      "address": {
+        "address_line_1": "201 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_007",
+      "given_name": "Patron7",
+      "family_name": "Demo",
+      "created_at": "2026-05-13T10:58:53Z",
+      "address": {
+        "address_line_1": "495 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_008",
+      "given_name": "Patron8",
+      "family_name": "Demo",
+      "created_at": "2025-09-02T10:58:53Z",
+      "address": {
+        "address_line_1": "682 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_009",
+      "given_name": "Patron9",
+      "family_name": "Demo",
+      "created_at": "2026-06-13T10:58:53Z",
+      "address": {
+        "address_line_1": "33 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_010",
+      "given_name": "Patron10",
+      "family_name": "Demo",
+      "created_at": "2026-01-23T10:58:53Z",
+      "address": {
+        "address_line_1": "174 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_011",
+      "given_name": "Patron11",
+      "family_name": "Demo",
+      "created_at": "2026-04-12T10:58:53Z",
+      "address": {
+        "address_line_1": "563 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_012",
+      "given_name": "Patron12",
+      "family_name": "Demo",
+      "created_at": "2026-09-14T10:58:53Z",
+      "address": {
+        "address_line_1": "640 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_013",
+      "given_name": "Patron13",
+      "family_name": "Demo",
+      "created_at": "2026-01-25T10:58:53Z",
+      "address": {
+        "address_line_1": "530 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_014",
+      "given_name": "Patron14",
+      "family_name": "Demo",
+      "created_at": "2026-01-03T10:58:53Z",
+      "address": {
+        "address_line_1": "885 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_015",
+      "given_name": "Patron15",
+      "family_name": "Demo",
+      "created_at": "2026-04-23T10:58:53Z",
+      "address": {
+        "address_line_1": "602 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_016",
+      "given_name": "Patron16",
+      "family_name": "Demo",
+      "created_at": "2026-01-26T10:58:53Z",
+      "address": {
+        "address_line_1": "778 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_017",
+      "given_name": "Patron17",
+      "family_name": "Demo",
+      "created_at": "2025-09-21T10:58:53Z",
+      "address": {
+        "address_line_1": "348 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_018",
+      "given_name": "Patron18",
+      "family_name": "Demo",
+      "created_at": "2025-08-31T10:58:53Z",
+      "address": {
+        "address_line_1": "587 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_019",
+      "given_name": "Patron19",
+      "family_name": "Demo",
+      "created_at": "2025-10-23T10:58:53Z",
+      "address": {
+        "address_line_1": "706 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_020",
+      "given_name": "Patron20",
+      "family_name": "Demo",
+      "created_at": "2025-11-06T10:58:53Z",
+      "address": {
+        "address_line_1": "756 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_021",
+      "given_name": "Patron21",
+      "family_name": "Demo",
+      "created_at": "2026-06-03T10:58:53Z",
+      "address": {
+        "address_line_1": "179 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_022",
+      "given_name": "Patron22",
+      "family_name": "Demo",
+      "created_at": "2026-02-07T10:58:53Z",
+      "address": {
+        "address_line_1": "391 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_023",
+      "given_name": "Patron23",
+      "family_name": "Demo",
+      "created_at": "2025-10-10T10:58:53Z",
+      "address": {
+        "address_line_1": "392 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_024",
+      "given_name": "Patron24",
+      "family_name": "Demo",
+      "created_at": "2026-09-27T10:58:53Z",
+      "address": {
+        "address_line_1": "546 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_025",
+      "given_name": "Patron25",
+      "family_name": "Demo",
+      "created_at": "2025-09-06T10:58:53Z",
+      "address": {
+        "address_line_1": "598 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_026",
+      "given_name": "Patron26",
+      "family_name": "Demo",
+      "created_at": "2025-11-26T10:58:53Z",
+      "address": {
+        "address_line_1": "535 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_027",
+      "given_name": "Patron27",
+      "family_name": "Demo",
+      "created_at": "2025-11-22T10:58:53Z",
+      "address": {
+        "address_line_1": "835 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_028",
+      "given_name": "Patron28",
+      "family_name": "Demo",
+      "created_at": "2025-09-28T10:58:53Z",
+      "address": {
+        "address_line_1": "473 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_029",
+      "given_name": "Patron29",
+      "family_name": "Demo",
+      "created_at": "2025-11-15T10:58:53Z",
+      "address": {
+        "address_line_1": "397 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_030",
+      "given_name": "Patron30",
+      "family_name": "Demo",
+      "created_at": "2025-10-03T10:58:53Z",
+      "address": {
+        "address_line_1": "703 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_031",
+      "given_name": "Patron31",
+      "family_name": "Demo",
+      "created_at": "2026-02-23T10:58:53Z",
+      "address": {
+        "address_line_1": "902 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_032",
+      "given_name": "Patron32",
+      "family_name": "Demo",
+      "created_at": "2025-11-04T10:58:53Z",
+      "address": {
+        "address_line_1": "742 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_033",
+      "given_name": "Patron33",
+      "family_name": "Demo",
+      "created_at": "2026-08-30T10:58:53Z",
+      "address": {
+        "address_line_1": "801 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_034",
+      "given_name": "Patron34",
+      "family_name": "Demo",
+      "created_at": "2026-02-04T10:58:53Z",
+      "address": {
+        "address_line_1": "539 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_035",
+      "given_name": "Patron35",
+      "family_name": "Demo",
+      "created_at": "2025-09-23T10:58:53Z",
+      "address": {
+        "address_line_1": "638 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_036",
+      "given_name": "Patron36",
+      "family_name": "Demo",
+      "created_at": "2026-02-26T10:58:53Z",
+      "address": {
+        "address_line_1": "549 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_037",
+      "given_name": "Patron37",
+      "family_name": "Demo",
+      "created_at": "2026-01-29T10:58:53Z",
+      "address": {
+        "address_line_1": "485 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_038",
+      "given_name": "Patron38",
+      "family_name": "Demo",
+      "created_at": "2026-04-09T10:58:53Z",
+      "address": {
+        "address_line_1": "264 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_039",
+      "given_name": "Patron39",
+      "family_name": "Demo",
+      "created_at": "2026-04-03T10:58:53Z",
+      "address": {
+        "address_line_1": "630 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    },
+    {
+      "id": "cust_salon-la_040",
+      "given_name": "Patron40",
+      "family_name": "Demo",
+      "created_at": "2026-04-29T10:58:53Z",
+      "address": {
+        "address_line_1": "183 Demo Ave",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_salon-la_0001",
+      "customer_id": "cust_salon-la_040",
+      "created_at": "2026-10-19T06:54:12Z",
+      "closed_at": "2026-10-19T07:09:12Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0002",
+      "customer_id": "cust_salon-la_012",
+      "created_at": "2026-10-15T13:02:19Z",
+      "closed_at": "2026-10-15T13:17:19Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0003",
+      "customer_id": "cust_salon-la_012",
+      "created_at": "2026-08-18T16:52:27Z",
+      "closed_at": "2026-08-18T17:07:27Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 3500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "1",
+          "total_money": {
+            "amount": 3500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0004",
+      "customer_id": "cust_salon-la_005",
+      "created_at": "2026-08-26T12:53:49Z",
+      "closed_at": "2026-08-26T13:08:49Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0005",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-10-07T11:33:08Z",
+      "closed_at": "2026-10-07T11:48:08Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0006",
+      "customer_id": "cust_salon-la_008",
+      "created_at": "2026-08-18T20:11:27Z",
+      "closed_at": "2026-08-18T20:26:27Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0007",
+      "customer_id": "cust_salon-la_003",
+      "created_at": "2026-10-29T07:51:18Z",
+      "closed_at": "2026-10-29T08:06:18Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0008",
+      "customer_id": "cust_salon-la_016",
+      "created_at": "2026-10-16T22:15:59Z",
+      "closed_at": "2026-10-16T22:30:59Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0009",
+      "customer_id": "cust_salon-la_016",
+      "created_at": "2026-09-27T23:23:13Z",
+      "closed_at": "2026-09-27T23:38:13Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0010",
+      "customer_id": "cust_salon-la_004",
+      "created_at": "2026-10-25T01:32:46Z",
+      "closed_at": "2026-10-25T01:47:46Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0011",
+      "customer_id": "cust_salon-la_003",
+      "created_at": "2026-10-04T07:28:40Z",
+      "closed_at": "2026-10-04T07:43:40Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 7000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "2",
+          "total_money": {
+            "amount": 7000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0012",
+      "customer_id": "cust_salon-la_006",
+      "created_at": "2026-09-20T13:53:58Z",
+      "closed_at": "2026-09-20T14:08:58Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0013",
+      "customer_id": "cust_salon-la_002",
+      "created_at": "2026-10-18T00:27:38Z",
+      "closed_at": "2026-10-18T00:42:38Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0014",
+      "customer_id": "cust_salon-la_006",
+      "created_at": "2026-09-19T14:14:29Z",
+      "closed_at": "2026-09-19T14:29:29Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 3500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "1",
+          "total_money": {
+            "amount": 3500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0015",
+      "customer_id": "cust_salon-la_019",
+      "created_at": "2026-10-26T07:22:59Z",
+      "closed_at": "2026-10-26T07:37:59Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 7000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "2",
+          "total_money": {
+            "amount": 7000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0016",
+      "customer_id": "cust_salon-la_002",
+      "created_at": "2026-09-01T11:57:43Z",
+      "closed_at": "2026-09-01T12:12:43Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 3500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "1",
+          "total_money": {
+            "amount": 3500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0017",
+      "customer_id": "cust_salon-la_028",
+      "created_at": "2026-09-10T04:44:22Z",
+      "closed_at": "2026-09-10T04:59:22Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0018",
+      "customer_id": "cust_salon-la_010",
+      "created_at": "2026-10-17T01:59:05Z",
+      "closed_at": "2026-10-17T02:14:05Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0019",
+      "customer_id": "cust_salon-la_009",
+      "created_at": "2026-10-27T01:11:06Z",
+      "closed_at": "2026-10-27T01:26:06Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0020",
+      "customer_id": "cust_salon-la_025",
+      "created_at": "2026-10-09T11:47:19Z",
+      "closed_at": "2026-10-09T12:02:19Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0021",
+      "customer_id": "cust_salon-la_012",
+      "created_at": "2026-10-19T15:01:33Z",
+      "closed_at": "2026-10-19T15:16:33Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0022",
+      "customer_id": "cust_salon-la_008",
+      "created_at": "2026-08-25T23:14:38Z",
+      "closed_at": "2026-08-25T23:29:38Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0023",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-10-06T14:35:50Z",
+      "closed_at": "2026-10-06T14:50:50Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0024",
+      "customer_id": "cust_salon-la_003",
+      "created_at": "2026-08-24T00:18:37Z",
+      "closed_at": "2026-08-24T00:33:37Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0025",
+      "customer_id": "cust_salon-la_008",
+      "created_at": "2026-09-30T13:35:45Z",
+      "closed_at": "2026-09-30T13:50:45Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0026",
+      "customer_id": "cust_salon-la_009",
+      "created_at": "2026-08-06T12:32:03Z",
+      "closed_at": "2026-08-06T12:47:03Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0027",
+      "customer_id": "cust_salon-la_003",
+      "created_at": "2026-08-17T21:58:21Z",
+      "closed_at": "2026-08-17T22:13:21Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 5500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Conditioning Treatment",
+          "quantity": "1",
+          "total_money": {
+            "amount": 5500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0028",
+      "customer_id": "cust_salon-la_039",
+      "created_at": "2026-10-23T12:38:42Z",
+      "closed_at": "2026-10-23T12:53:42Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0029",
+      "customer_id": "cust_salon-la_011",
+      "created_at": "2026-08-23T15:28:20Z",
+      "closed_at": "2026-08-23T15:43:20Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0030",
+      "customer_id": "cust_salon-la_012",
+      "created_at": "2026-09-13T23:31:41Z",
+      "closed_at": "2026-09-13T23:46:41Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0031",
+      "customer_id": "cust_salon-la_017",
+      "created_at": "2026-09-27T16:27:16Z",
+      "closed_at": "2026-09-27T16:42:16Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0032",
+      "customer_id": "cust_salon-la_010",
+      "created_at": "2026-09-14T02:38:41Z",
+      "closed_at": "2026-09-14T02:53:41Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 7000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "2",
+          "total_money": {
+            "amount": 7000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0033",
+      "customer_id": "cust_salon-la_036",
+      "created_at": "2026-10-11T19:59:18Z",
+      "closed_at": "2026-10-11T20:14:18Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0034",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-10-01T04:45:50Z",
+      "closed_at": "2026-10-01T05:00:50Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0035",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-10-06T21:47:42Z",
+      "closed_at": "2026-10-06T22:02:42Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0036",
+      "customer_id": "cust_salon-la_012",
+      "created_at": "2026-09-21T09:26:28Z",
+      "closed_at": "2026-09-21T09:41:28Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0037",
+      "customer_id": "cust_salon-la_006",
+      "created_at": "2026-08-05T22:45:02Z",
+      "closed_at": "2026-08-05T23:00:02Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0038",
+      "customer_id": "cust_salon-la_009",
+      "created_at": "2026-10-24T00:25:22Z",
+      "closed_at": "2026-10-24T00:40:22Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0039",
+      "customer_id": "cust_salon-la_009",
+      "created_at": "2026-09-26T19:42:59Z",
+      "closed_at": "2026-09-26T19:57:59Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0040",
+      "customer_id": "cust_salon-la_002",
+      "created_at": "2026-09-18T11:26:50Z",
+      "closed_at": "2026-09-18T11:41:50Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0041",
+      "customer_id": "cust_salon-la_024",
+      "created_at": "2026-10-07T09:50:18Z",
+      "closed_at": "2026-10-07T10:05:18Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 7000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "2",
+          "total_money": {
+            "amount": 7000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0042",
+      "customer_id": "cust_salon-la_006",
+      "created_at": "2026-09-25T01:26:29Z",
+      "closed_at": "2026-09-25T01:41:29Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0043",
+      "customer_id": "cust_salon-la_011",
+      "created_at": "2026-10-24T11:31:47Z",
+      "closed_at": "2026-10-24T11:46:47Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0044",
+      "customer_id": "cust_salon-la_012",
+      "created_at": "2026-09-18T22:43:17Z",
+      "closed_at": "2026-09-18T22:58:17Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0045",
+      "customer_id": "cust_salon-la_010",
+      "created_at": "2026-10-19T14:24:49Z",
+      "closed_at": "2026-10-19T14:39:49Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0046",
+      "customer_id": "cust_salon-la_011",
+      "created_at": "2026-10-17T11:11:42Z",
+      "closed_at": "2026-10-17T11:26:42Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 3500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "1",
+          "total_money": {
+            "amount": 3500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0047",
+      "customer_id": "cust_salon-la_004",
+      "created_at": "2026-08-24T23:07:26Z",
+      "closed_at": "2026-08-24T23:22:26Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0048",
+      "customer_id": "cust_salon-la_034",
+      "created_at": "2026-09-22T09:30:02Z",
+      "closed_at": "2026-09-22T09:45:02Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0049",
+      "customer_id": "cust_salon-la_012",
+      "created_at": "2026-10-07T06:32:42Z",
+      "closed_at": "2026-10-07T06:47:42Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0050",
+      "customer_id": "cust_salon-la_031",
+      "created_at": "2026-10-06T16:01:49Z",
+      "closed_at": "2026-10-06T16:16:49Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 5500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Conditioning Treatment",
+          "quantity": "1",
+          "total_money": {
+            "amount": 5500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0051",
+      "customer_id": "cust_salon-la_005",
+      "created_at": "2026-08-18T21:36:41Z",
+      "closed_at": "2026-08-18T21:51:41Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 3500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "1",
+          "total_money": {
+            "amount": 3500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0052",
+      "customer_id": "cust_salon-la_014",
+      "created_at": "2026-10-27T19:01:27Z",
+      "closed_at": "2026-10-27T19:16:27Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0053",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-08-05T14:27:57Z",
+      "closed_at": "2026-08-05T14:42:57Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0054",
+      "customer_id": "cust_salon-la_018",
+      "created_at": "2026-09-24T05:27:14Z",
+      "closed_at": "2026-09-24T05:42:14Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0055",
+      "customer_id": "cust_salon-la_002",
+      "created_at": "2026-10-15T11:32:08Z",
+      "closed_at": "2026-10-15T11:47:08Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0056",
+      "customer_id": "cust_salon-la_024",
+      "created_at": "2026-09-08T19:22:20Z",
+      "closed_at": "2026-09-08T19:37:20Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0057",
+      "customer_id": "cust_salon-la_018",
+      "created_at": "2026-09-09T06:02:53Z",
+      "closed_at": "2026-09-09T06:17:53Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0058",
+      "customer_id": "cust_salon-la_022",
+      "created_at": "2026-08-20T18:03:58Z",
+      "closed_at": "2026-08-20T18:18:58Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 5500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Conditioning Treatment",
+          "quantity": "1",
+          "total_money": {
+            "amount": 5500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0059",
+      "customer_id": "cust_salon-la_021",
+      "created_at": "2026-09-20T08:41:38Z",
+      "closed_at": "2026-09-20T08:56:38Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0060",
+      "customer_id": "cust_salon-la_008",
+      "created_at": "2026-08-06T05:12:39Z",
+      "closed_at": "2026-08-06T05:27:39Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0061",
+      "customer_id": "cust_salon-la_022",
+      "created_at": "2026-09-15T10:49:08Z",
+      "closed_at": "2026-09-15T11:04:08Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0062",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-08-04T04:36:34Z",
+      "closed_at": "2026-08-04T04:51:34Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0063",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-09-06T08:28:46Z",
+      "closed_at": "2026-09-06T08:43:46Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0064",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-08-14T05:13:34Z",
+      "closed_at": "2026-08-14T05:28:34Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0065",
+      "customer_id": "cust_salon-la_006",
+      "created_at": "2026-10-25T19:45:48Z",
+      "closed_at": "2026-10-25T20:00:48Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0066",
+      "customer_id": "cust_salon-la_006",
+      "created_at": "2026-09-02T20:28:22Z",
+      "closed_at": "2026-09-02T20:43:22Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0067",
+      "customer_id": "cust_salon-la_008",
+      "created_at": "2026-08-15T00:50:48Z",
+      "closed_at": "2026-08-15T01:05:48Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0068",
+      "customer_id": "cust_salon-la_009",
+      "created_at": "2026-09-11T23:18:39Z",
+      "closed_at": "2026-09-11T23:33:39Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 7000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "2",
+          "total_money": {
+            "amount": 7000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0069",
+      "customer_id": "cust_salon-la_018",
+      "created_at": "2026-08-26T09:05:30Z",
+      "closed_at": "2026-08-26T09:20:30Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0070",
+      "customer_id": "cust_salon-la_034",
+      "created_at": "2026-10-26T16:15:28Z",
+      "closed_at": "2026-10-26T16:30:28Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0071",
+      "customer_id": "cust_salon-la_007",
+      "created_at": "2026-10-22T11:34:47Z",
+      "closed_at": "2026-10-22T11:49:47Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0072",
+      "customer_id": "cust_salon-la_037",
+      "created_at": "2026-09-10T15:17:55Z",
+      "closed_at": "2026-09-10T15:32:55Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0073",
+      "customer_id": "cust_salon-la_012",
+      "created_at": "2026-08-25T10:53:51Z",
+      "closed_at": "2026-08-25T11:08:51Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0074",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-10-24T15:15:54Z",
+      "closed_at": "2026-10-24T15:30:54Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0075",
+      "customer_id": "cust_salon-la_008",
+      "created_at": "2026-10-13T20:30:29Z",
+      "closed_at": "2026-10-13T20:45:29Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0076",
+      "customer_id": "cust_salon-la_004",
+      "created_at": "2026-09-17T20:23:06Z",
+      "closed_at": "2026-09-17T20:38:06Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0077",
+      "customer_id": "cust_salon-la_010",
+      "created_at": "2026-10-15T12:14:13Z",
+      "closed_at": "2026-10-15T12:29:13Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 7000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "2",
+          "total_money": {
+            "amount": 7000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0078",
+      "customer_id": "cust_salon-la_010",
+      "created_at": "2026-10-27T06:13:11Z",
+      "closed_at": "2026-10-27T06:28:11Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0079",
+      "customer_id": "cust_salon-la_012",
+      "created_at": "2026-10-04T17:31:16Z",
+      "closed_at": "2026-10-04T17:46:16Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0080",
+      "customer_id": "cust_salon-la_034",
+      "created_at": "2026-10-11T07:12:10Z",
+      "closed_at": "2026-10-11T07:27:10Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0081",
+      "customer_id": "cust_salon-la_025",
+      "created_at": "2026-09-15T18:24:58Z",
+      "closed_at": "2026-09-15T18:39:58Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0082",
+      "customer_id": "cust_salon-la_022",
+      "created_at": "2026-08-05T02:31:45Z",
+      "closed_at": "2026-08-05T02:46:45Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0083",
+      "customer_id": "cust_salon-la_034",
+      "created_at": "2026-09-19T16:05:36Z",
+      "closed_at": "2026-09-19T16:20:36Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0084",
+      "customer_id": "cust_salon-la_006",
+      "created_at": "2026-10-18T01:21:17Z",
+      "closed_at": "2026-10-18T01:36:17Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0085",
+      "customer_id": "cust_salon-la_005",
+      "created_at": "2026-08-12T12:45:12Z",
+      "closed_at": "2026-08-12T13:00:12Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "2",
+          "total_money": {
+            "amount": 9000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0086",
+      "customer_id": "cust_salon-la_029",
+      "created_at": "2026-10-02T12:03:46Z",
+      "closed_at": "2026-10-02T12:18:46Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0087",
+      "customer_id": "cust_salon-la_040",
+      "created_at": "2026-08-22T20:53:23Z",
+      "closed_at": "2026-08-22T21:08:23Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0088",
+      "customer_id": "cust_salon-la_021",
+      "created_at": "2026-09-28T13:02:30Z",
+      "closed_at": "2026-09-28T13:17:30Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 7000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "2",
+          "total_money": {
+            "amount": 7000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0089",
+      "customer_id": "cust_salon-la_007",
+      "created_at": "2026-09-22T12:29:10Z",
+      "closed_at": "2026-09-22T12:44:10Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0090",
+      "customer_id": "cust_salon-la_026",
+      "created_at": "2026-10-11T08:05:31Z",
+      "closed_at": "2026-10-11T08:20:31Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0091",
+      "customer_id": "cust_salon-la_015",
+      "created_at": "2026-08-24T04:57:43Z",
+      "closed_at": "2026-08-24T05:12:43Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "2",
+          "total_money": {
+            "amount": 24000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0092",
+      "customer_id": "cust_salon-la_030",
+      "created_at": "2026-08-12T00:21:40Z",
+      "closed_at": "2026-08-12T00:36:40Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0093",
+      "customer_id": "cust_salon-la_019",
+      "created_at": "2026-10-12T17:07:15Z",
+      "closed_at": "2026-10-12T17:22:15Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 4500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Blowout",
+          "quantity": "1",
+          "total_money": {
+            "amount": 4500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0094",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-10-02T01:00:59Z",
+      "closed_at": "2026-10-02T01:15:59Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0095",
+      "customer_id": "cust_salon-la_020",
+      "created_at": "2026-08-26T02:25:02Z",
+      "closed_at": "2026-08-26T02:40:02Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 7000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "2",
+          "total_money": {
+            "amount": 7000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0096",
+      "customer_id": "cust_salon-la_032",
+      "created_at": "2026-09-27T12:01:56Z",
+      "closed_at": "2026-09-27T12:16:56Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0097",
+      "customer_id": "cust_salon-la_031",
+      "created_at": "2026-08-17T08:39:35Z",
+      "closed_at": "2026-08-17T08:54:35Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 3500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Trim",
+          "quantity": "1",
+          "total_money": {
+            "amount": 3500,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0098",
+      "customer_id": "cust_salon-la_010",
+      "created_at": "2026-08-09T04:59:40Z",
+      "closed_at": "2026-08-09T05:14:40Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "2",
+          "total_money": {
+            "amount": 13000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0099",
+      "customer_id": "cust_salon-la_007",
+      "created_at": "2026-10-01T17:58:59Z",
+      "closed_at": "2026-10-01T18:13:59Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 12000,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Hair Color",
+          "quantity": "1",
+          "total_money": {
+            "amount": 12000,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ord_salon-la_0100",
+      "customer_id": "cust_salon-la_001",
+      "created_at": "2026-10-09T20:46:52Z",
+      "closed_at": "2026-10-09T21:01:52Z",
+      "state": "COMPLETED",
+      "total_money": {
+        "amount": 6500,
+        "currency": "USD"
+      },
+      "line_items": [
+        {
+          "name": "Haircut",
+          "quantity": "1",
+          "total_money": {
+            "amount": 6500,
+            "currency": "USD"
+          }
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc_salon-la",
+      "name": "Sunset Studio Salon",
+      "address": {
+        "address_line_1": "100 Demo Street",
+        "locality": "Los Angeles",
+        "administrative_district_level_1": "CA",
+        "postal_code": "90028",
+        "country": "US"
+      },
+      "coordinates": {
+        "latitude": 34.1016,
+        "longitude": -118.3267
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "byBusinessType": {
+    "coffee_shop": {
+      "excludeTags": [
+        "urn:tag:category:place:coffee_shop",
+        "urn:tag:genre:place:restaurant:coffee_shop",
+        "urn:tag:category:place:tea_and_coffee_shop",
+        "urn:tag:category:place:espresso_bar",
+        "urn:tag:category:place:cafe"
+      ]
+    },
+    "hair_salon": {
+      "excludeTags": [
+        "urn:tag:category:place:hair_salon",
+        "urn:tag:genre:place:hair_salon",
+        "urn:tag:genre:place:restaurant:hair_salon",
+        "urn:tag:category:place:beauty_salon"
+      ]
+    },
+    "mexican_restaurant": {
+      "excludeTags": [
+        "urn:tag:category:place:mexican_restaurant",
+        "urn:tag:category:place:mexican_torta_restaurant",
+        "urn:tag:genre:place:restaurant:mexican_torta"
+      ]
+    }
+  }
+}
